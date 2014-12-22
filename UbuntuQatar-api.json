@@ -1,0 +1,32 @@
+{
+  "name": "Ubuntu Qatar",
+  "url": "https://wiki.ubuntu.com/QatariTeam",
+  "location": {
+    "city": "ad dawhah",
+    "country": "QA",
+    "lat": 25.5,
+    "lon": 51.25,
+    "address": {
+      "Name": "Museum of Islamic Art, Doha",
+      "Street": "P.O. Box 2777"
+    }
+  },
+  "contact": {
+    "email": "kaziweb1@gmail.com",
+    "irc": "irc://ubuntu-qa",
+    "ml": "https://lists.ubuntu.com/mailman/listinfo/ubuntu-qa",
+    "facebook": "https://www.facebook.com/groups/ubuntuqatar",
+    "googleplus": "http://plus.google.com/+UbuntuqaBlogspotQatar"
+  },
+  "timeline": [
+    {
+      "description": "Come join us as we celebrate the launch of Ubuntu 14.04 LTS (Trusty Tahr) in Doha, Qatar!   Folks will be available to help you install or upgrade to this amazing alternative to Windows.",
+      "timestamp": "2014-04-25",
+      "url": "http://loco.ubuntu.com/events/ubuntu-qa/2797-1404-release-party/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-22T14:00:13.116Z"
+  },
+  "api": "1.0.0"
+}
