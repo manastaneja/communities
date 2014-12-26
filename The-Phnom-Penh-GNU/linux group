@@ -1,0 +1,42 @@
+{
+  "name": "The Phnom Penh GNU/Linux User Group",
+  "url": "http://www.pplug.net/",
+  "location": {
+    "city": "Phnom Penh",
+    "country": "KH",
+    "lat": 11.55,
+    "lon": 104.9167,
+    "address": {
+      "Name": "Phnom Penh Hackerspace",
+      "Street": "No. 263, St. 163 (near Toul Tom Pong market, above 7 Mart)"
+    }
+  },
+  "contact": {
+    "ml": "pplug@groups.google.com"
+  },
+  "timeline": [
+    {
+      "description": "Celebrating Software Freedom Day on Nov 1st",
+      "timestamp": "2014-11-1",
+      "url": "http://www.pplug.net/index.php/7-pplug/19-celebrating-software-freedom-day-on-nov-1st"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "Phnom Penh LUG - Recent Topics",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.pplug.net/index.php/forum/topics/mode-topics?format=feed"
+    },
+    {
+      "name": "Phnom Penh LUG Planet",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://planet.pplug.net/rss20.xml"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-26T15:37:23.441Z"
+  },
+  "api": "1.0.1"
+}
