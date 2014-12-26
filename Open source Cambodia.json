@@ -1,0 +1,35 @@
+{
+  "name": "Open Source Cambodia",
+  "url": "http://www.opensourcecambodia.org/",
+  "location": {
+    "city": "Phnom Penh",
+    "country": "KH",
+    "lat": 11.55,
+    "lon": 104.9167
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/opensourcecambodia",
+    "twitter": "@linuxcambodia"
+  },
+  "timeline": [
+    {
+      "description": "Joint meet up at Phnom Penh Hackerspace",
+      "timestamp": "2014-08-01",
+      "url": "http://www.opensourcecambodia.org/event/show/joint-meet-up-at-phnom-penh-hackerspace"
+    },
+    {
+      "description": "Reconnecting Community",
+      "timestamp": "2014-07-22",
+      "url": "http://www.opensourcecambodia.org/event/show/reconnecting-community"
+    },
+    {
+      "description": "Linux high availability (HA)",
+      "timestamp": "2014-04-28",
+      "url": "http://www.opensourcecambodia.org/event/show/linux-high-availability-ha"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-26T16:27:58.691Z"
+  },
+  "api": "1.0.1"
+}
