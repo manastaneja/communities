@@ -1,0 +1,29 @@
+{
+  "name": "Guangzhou Linux User Group",
+  "url": "http://www.gzlug.org",
+  "location": {
+    "city": "Guangzhou",
+    "country": "CN",
+    "lat": 23.1333,
+    "lon": 113.2667
+  },
+  "contact": {
+    "ml": "gzlug@google.groups.com"
+  },
+  "timeline": [
+    {
+      "description": "September 20, Software Freedom Day is another holiday FOSS enthusiasts, the spirit of sharing, exchange,  promotion of FOSS purposes, Guangzhou Linux User Group will be held this Saturday afternoon, held a \"software at Zhongshan University South Campus  Freedom Day \"activity, and we celebrate and share the holiday.",
+      "timestamp": "2014-09-20",
+      "url": "http://www.gzlug.org/%E5%85%B3%E4%BA%8E"
+    },
+    {
+      "description": "June graduation party season",
+      "timestamp": "2014-06-21",
+      "url": "http://www.gzlug.org/%E5%85%B3%E4%BA%8E"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-27T15:42:34.332Z"
+  },
+  "api": "1.0.1"
+}
