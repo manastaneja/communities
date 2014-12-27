@@ -1,0 +1,26 @@
+{
+  "name": "Chongqing Linux User Group",
+  "url": "http://www.chongqinglug.org/",
+  "location": {
+    "city": "Chongqing",
+    "country": "CN",
+    "lat": 29.5583,
+    "lon": 106.5667,
+    "address": {
+      "Name": "Metropolitan Tower",
+      "Street": "Yuzhong Dist",
+      "Zipcode": "400715"
+    }
+  },
+  "contact": {
+    "email": "bootingman@chongqinglug.org",
+    "irc": "irc://#chongqinglug",
+    "ml": "chongqinglug@groups.google.com",
+    "facebook": "https://www.facebook.com/chongqinglug"
+  },
+  "state": {
+    "logo": "https://lh4.googleusercontent.com/-9NfWSjg7cBk/AAAAAAAAAAI/AAAAAAAAApM/4OV1Tuu6BCs/s120-c-a/photo.jpg",
+    "lastchange": "2014-12-27T15:14:16.303Z"
+  },
+  "api": "1.0.1"
+}
