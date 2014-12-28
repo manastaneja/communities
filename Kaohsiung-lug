@@ -1,0 +1,40 @@
+{
+  "name": "Kaohsiung Linux User Group",
+  "url": "http://kalug.linux.org.tw/",
+  "location": {
+    "city": "Kaohsiung",
+    "country": "TW",
+    "lat": 22.6333,
+    "lon": 120.2667,
+    "address": {
+      "Name": " MOCA MONA Cafe",
+      "Street": "No.69 ,Mingxian St.",
+      "Zipcode": "807"
+    }
+  },
+  "contact": {
+    "email": "contact@kalug.linux.org.tw",
+    "phone": "073486778",
+    "irc": "irc://#kalug"
+  },
+  "state": {
+    "logo": "http://kalug.linux.org.tw/pmwiki/pub/skins/pmwiki/kalug_draft.png",
+    "lastchange": "2014-12-28T07:51:52.081Z"
+  },
+  "timeline": [
+    {
+      "description": "TOSSUG (台北開放原始碼軟體使用者社群) 聚會",
+      "timestamp": "2014-12-02",
+      "url": "http://www.tossug.org/"
+    }
+  ],
+  "feeds": [
+    {
+      "name": "小惡魔AppleBOY: GitLab 快速安裝",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://kalug.linux.org.tw/rss20.xml"
+    }
+  ],
+  "api": "1.0.1"
+}
