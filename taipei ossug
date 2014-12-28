@@ -1,0 +1,33 @@
+{
+  "name": "Taipei Open Source Software User Group",
+  "url": "http://www.tossug.org/",
+  "location": {
+    "city": "Taipei",
+    "country": "TW",
+    "lat": 25.0333,
+    "lon": 121.6333
+  },
+  "contact": {
+    "email": "tossug@gmail.com",
+    "irc": "irc://#tossug",
+    "ml": "tossug@googlegroups.com",
+    "facebook": "https://www.facebook.com/groups/tossug/",
+    "googleplus": "https://plus.google.com/communities/115008508939921336314"
+  },
+  "timeline": [
+    {
+      "description": "Firefox OS App Manager & Setting Gaia Development Environment",
+      "timestamp": "2013-10-23",
+      "url": "http://blog.tossug.org/2013/10/tossug-1029-firefox-os-app-manager.html"
+    },
+    {
+      "description": " bluebat",
+      "timestamp": "2014-04-22",
+      "url": "http://blog.tossug.org/2014/04/tossug-20140422-bluebat.html"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-28T07:35:35.401Z"
+  },
+  "api": "1.0.1"
+}
