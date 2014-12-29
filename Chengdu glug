@@ -1,0 +1,36 @@
+{
+  "name": "Chengdu GNU / Linux User Group ",
+  "url": "http://www.cdlug.org/",
+  "location": {
+    "city": "Chengdu",
+    "country": "CN",
+    "lat": 30.6586,
+    "lon": 104.0647,
+    "address": {
+      "Name": "Chengdu Huanhuaxi park"
+    }
+  },
+  "contact": {
+    "email": "windkoo@gmail.com",
+    "ml": "cdlug_community@googlegroups.com"
+  },
+  "state": {
+    "logo": "http://wiki.cdlug.org/lib/tpl/dokuwiki/images/logo.png",
+    "lastchange": "2014-12-29T13:51:54.073Z"
+  },
+  "feeds": [
+    {
+      "name": "CDLUG posts",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.cdlug.org/feed/"
+    },
+    {
+      "name": "CDLUG Comments",
+      "category": "blog",
+      "type": "rss",
+      "url": "http://www.cdlug.org/comments/feed/"
+    }
+  ],
+  "api": "1.0.1"
+}
