@@ -1,0 +1,29 @@
+{
+  "name": "BITLUG (Birla Institute of Technology Linux Users Group)",
+  "url": "https://www.facebook.com/groups/bitlug/",
+  "location": {
+    "city": "Ranchi",
+    "country": "IN",
+    "lat": 23.35,
+    "lon": 85.33,
+    "address": {
+      "Name": "Birla Institute of Technology Linux Users Group",
+      "Street": "Mesra",
+      "Zipcode": "835215"
+    }
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/groups/bitlug/"
+  },
+  "timeline": [
+    {
+      "description": "Install fest : We will install various Distros such as Ubuntu,Linux Mint, Fedora as well as other Popular distros. Here you can also interact with us to learn more about Linux and other development stuffs.",
+      "timestamp": "2012-10-14",
+      "url": "https://www.facebook.com/events/393027347432073/"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-29T15:55:01.112Z"
+  },
+  "api": "1.0.1"
+}
