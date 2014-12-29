@@ -1,0 +1,23 @@
+{
+  "name": "Dhirubhai Ambani Institute of Information & Communication Technology-lug",
+  "url": "https://groups.yahoo.com/neo/groups/ilug_daiict",
+  "location": {
+    "city": "Gandhinagar",
+    "country": "IN",
+    "lat": 23.22,
+    "lon": 72.68
+  },
+  "contact": {
+    "email": "ilug_daiict@yahoogroups.com"
+  },
+  "timeline": [
+    {
+      "description": "Founded On",
+      "timestamp": "2003-05-26"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-29T15:33:19.420Z"
+  },
+  "api": "1.0.1"
+}
