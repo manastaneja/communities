@@ -1,0 +1,19 @@
+{
+  "name": "Xiyou Linux User Group",
+  "url": "http://www.xiyoulinux.org/",
+  "location": {
+    "city": "Xi'an",
+    "country": "CN",
+    "lat": 34.2667,
+    "lon": 108.9
+  },
+  "contact": {
+    "email": "xiyoulinux@gmail.com",
+    "ml": "xiyoulinux@googlegroups.com"
+  },
+  "state": {
+    "logo": "http://www.xiyoulinux.org/images/sign.png",
+    "lastchange": "2014-12-29T11:12:42.148Z"
+  },
+  "api": "1.0.1"
+}
