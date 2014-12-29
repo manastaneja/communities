@@ -1,0 +1,28 @@
+{
+  "name": "Sri Ramakrishna Engineering College-lug",
+  "url": "https://groups.yahoo.com/neo/groups/srec-lug/info",
+  "location": {
+    "city": "Coimbatore",
+    "country": "IN",
+    "lat": 11.0183,
+    "lon": 76.9725,
+    "address": {
+      "Name": "Sri Ramakrishna Engineering College",
+      "Zipcode": "641022"
+    }
+  },
+  "contact": {
+    "email": "sreclug@yahoo.com"
+  },
+  "timeline": [
+    {
+      "description": "CTOSummit: A unique event that discusses Open Source related business opportunities",
+      "timestamp": "2014-02-08",
+      "url": "https://groups.yahoo.com/neo/groups/srec-lug/conversations/messages/424"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-29T15:15:09.265Z"
+  },
+  "api": "1.0.1"
+}
