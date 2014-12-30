@@ -1,0 +1,34 @@
+{
+  "name": "Thapar University LUG",
+  "url": "http://lugtu.in/",
+  "location": {
+    "city": "Patiala",
+    "country": "IN",
+    "lat": 30.34,
+    "lon": 76.38,
+    "address": {
+      "Name": "Thapar University",
+      "Street": "Nabha Road , Patiala",
+      "Zipcode": "147004"
+    }
+  },
+  "contact": {
+    "email": "ADMIN@LUGTU.IN",
+    "facebook": "https://www.facebook.com/LinuxUsrGrp.ThaparUniversity"
+  },
+  "state": {
+    "logo": "http://lugtu.in/img/tux.png",
+    "lastchange": "2014-12-30T13:39:48.671Z"
+  },
+  "timeline": [
+    {
+      "description": "Ethical Hacking Workshop:-LEARN THE CONCEPTS OF HACKING AND PROTECTING YOURSELF FROM HACKERS RIGHT FROM SCRATCH. LEARN THE BASICS OF HACKING FROM INDIA'S MOST SECURE PROGRAMMER-RISHAB ARORA.",
+      "timestamp": "2014-11-10"
+    },
+    {
+      "description": "Metaspoilt Workshop:-METASPLOIT IS A FRAMEWORK FOR DEVELOPING AND EXECUTING EXPLOIT CODE AGAINST A REMOTE TARGET. LUGTU GIVES YOU A PLATFORM TO LEARN HACKING WITH METASPLOIT AND TRY IT SIDE BY SIDE.",
+      "timestamp": "2014-11-12"
+    }
+  ],
+  "api": "1.0.1"
+}
