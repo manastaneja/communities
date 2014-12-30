@@ -1,0 +1,24 @@
+{
+  "name": "Netaji Subhash Engineering College-GLUG",
+  "url": "http://www.nongnu.org/gug-nixal/index.html",
+  "location": {
+    "city": "Kolkata",
+    "country": "IN",
+    "lat": 22.5667,
+    "lon": 88.3667,
+    "address": {
+      "Name": "Nixal",
+      "Street": "c/o Netaji Subhash Engineering College Garia",
+      "Zipcode": "700084"
+    }
+  },
+  "contact": {
+    "email": "nixalcal@yahoo.com",
+    "ml": "nixalcal@yahoogroups.com"
+  },
+  "state": {
+    "logo": "http://www.nongnu.org/gug-nixal/images/logo6.jpg",
+    "lastchange": "2014-12-30T12:19:39.738Z"
+  },
+  "api": "1.0.1"
+}
